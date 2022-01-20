@@ -1,5 +1,3 @@
->>> https://raw.githubusercontent.com/Qttrex/q/main/adblock.txt <<<
-
 ##.js_smartbanner.smartbanner--android.smartbanner
 ##.smartbanner-android.smartbanner
 about.google###cookieBar
@@ -24742,9 +24740,7 @@ trcking.min.js$domain=canalplus.com
 /cookie-banner$domain=hauptbahnhofcity.wien
 /cookiefly/*$domain=internet-rockstars.com
 /ccm/*$domain=silverfast.com
-!
-! FILTERLIST ONLY
-!
+
 /otBannerSdk.js$domain=winfuture.de
 ||asus.com/js/2015/alert-info.js$script
 ||asusworld.it/scripts/CookiesAgreement/script.js$script
@@ -25803,4 +25799,3 @@ abycyclette.eklablog.com###cookie-info
 20minutes.fr###cnil-notice
 6play.fr###cookieu_header
 6play.fr##.cookie
-
